@@ -10,5 +10,5 @@ Run entertainment_center.py and input the movie titles you want to list on your 
 Rest of the code is documented for further usage. **Make sure to remove/modify the footer in fresh_tomatoes.py before the use though.**
 
 ## Sample Website
-I have also added the sample html page generated.<br/>
+I have also added the sample html page generated.<br/><br />
 ![Sample Website](/images/sample.png)
